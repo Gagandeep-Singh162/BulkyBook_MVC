@@ -30,5 +30,5 @@ To run this project on your machine, you’ll need:
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Gagandeep-Singh162/BulkyBook_MVC.git
    cd your-repo-name
