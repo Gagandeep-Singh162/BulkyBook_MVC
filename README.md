@@ -31,4 +31,6 @@ To run this project on your machine, you’ll need:
 1. **Clone the Repo**:
    ```bash
    git clone https://github.com/Gagandeep-Singh162/BulkyBook_MVC.git
-   cd your-repo-name
+   cd BulkyBook_MVC
+
+2. **Set Up the Database:** Update the connection string in appsettings.json to point to your SQL Server instance. Run this command in the Package Manager Console to apply migrations:
